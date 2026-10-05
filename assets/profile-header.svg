@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Divyarajsinh Solanki — Full-Stack Developer</title>
+<desc id="desc">Ruby on Rails, React and AWS. Building scalable applications with thoughtful interfaces. Based in India. divyarajsinh.com.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17223b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<rect x="48" y="54" width="42" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="105" y="62" fill="#94a3b8" font-size="14" letter-spacing="3">ENGINEER · BUILDER · PROBLEM SOLVER</text>
+<text x="48" y="135" fill="#f8fafc" font-size="52" font-weight="700">Divyarajsinh Solanki</text>
+<text x="50" y="181" fill="#67e8f9" font-size="25">Full-Stack Developer</text>
+<text x="50" y="229" fill="#cbd5e1" font-size="19">Scalable backends. Thoughtful interfaces. Real-world impact.</text>
+<g font-size="15" fill="#e2e8f0">
+<rect x="48" y="266" width="144" height="37" rx="18" fill="#22304a"/><text x="70" y="290">Ruby on Rails</text>
+<rect x="204" y="266" width="88" height="37" rx="18" fill="#22304a"/><text x="227" y="290">React</text>
+<rect x="304" y="266" width="78" height="37" rx="18" fill="#22304a"/><text x="325" y="290">AWS</text>
+</g>
+<text x="50" y="344" fill="#94a3b8" font-size="14">BASED IN INDIA</text>
+<text x="1150" y="344" fill="#67e8f9" font-size="16" text-anchor="end">divyarajsinh.com ↗</text>
+</g>
+<g transform="translate(940 95)" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M48 30 L8 70 L48 110 M132 30 L172 70 L132 110 M108 8 L72 132"/>
+</g>
+<rect x="48" y="371" width="1104" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
