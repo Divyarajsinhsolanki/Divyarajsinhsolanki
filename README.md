@@ -1,183 +1,119 @@
-<h1 align="center">Hi 👋, I'm Divyarajsinh Solanki</h1>
-<h3 align="center">Full-Stack Ruby on Rails & React Developer from India 🇮🇳</h3>
-
 <p align="center">
-  <a href="https://github.com/Divyarajsinhsolanki">
-    <img src="https://komarev.com/ghpvc/?username=Divyarajsinhsolanki&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://divyarajsinh.com/">
+    <img src="./assets/profile-header.svg" width="100%" alt="Divyarajsinh Solanki — Full-Stack Developer specializing in Ruby on Rails, React and AWS. Visit my portfolio." />
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Full-Stack Developer with **3.5+ years** of experience
-- 🚀 Working primarily with **Ruby on Rails, React, Vite & AWS**
-- 🏥 Building enterprise healthcare applications used by **300+ hospitals**
-- ☁️ Experienced with AWS, CI/CD, Background Jobs and API Integrations
-- 🌱 Currently learning **Docker, Kubernetes & Microservices**
-- 💬 Ask me about **Ruby on Rails, React, PostgreSQL, MySQL, AWS, APIs**
-- 📫 Reach me at **solanki.divyarajsinhp@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ruby,js,ts,html,css,bash,python"/>
+<p align="center">
+  <strong><a href="https://divyarajsinh.com/">Explore my portfolio ↗</a></strong>
+  &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/divyarajsinh-solanki-353538206">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:solanki.divyarajsinhp@gmail.com">Email me</a>
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=rails,nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyarajsinhsolanki&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyarajsinhsolanki&layout=compact&theme=tokyonight"/>
-
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#github-activity">GitHub activity</a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## About
+
+I'm **Divyarajsinh Solanki**, a full-stack developer from India with **3.5+ years of experience**. I build web applications with **Ruby on Rails, React, Vite and AWS**, with a focus on dependable backends and clear, usable interfaces.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><h3>3.5+ years</h3><sub>FULL-STACK DEVELOPMENT</sub><br /><br /></td>
+    <td width="33%" align="center"><h3>300+ hospitals</h3><sub>USING HEALTHCARE APPS I HELP BUILD</sub><br /><br /></td>
+    <td width="33%" align="center"><h3>Rails → React → AWS</h3><sub>FROM BACKEND TO DEPLOYMENT</sub><br /><br /></td>
+  </tr>
+</table>
+
+- **Building:** enterprise healthcare applications, REST APIs and background job systems.
+- **Focused on:** Rails performance, API integrations and scalable application architecture.
+- **Exploring:** Docker, Kubernetes and microservices.
+- **Happy to discuss:** Ruby on Rails, React, PostgreSQL, MySQL and AWS.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; MyForms</h3>
+      <p>Enterprise healthcare platform built with Ruby on Rails.</p>
+      <p><code>Rails</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Sidekiq</code></p>
+      <p><sub>AWS infrastructure with S3, SQS and SES.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; NexusHub</h3>
+      <p>AI-powered workspace built with React and JavaScript.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>AI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 &nbsp; Chat Application</h3>
+      <p>Real-time chat application built with Ruby on Rails.</p>
+      <p><code>Ruby on Rails</code> <code>Real-time messaging</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 &nbsp; PDF Master</h3>
+      <p>PDF generation and management application.</p>
+      <p><code>PDF generation</code> <code>Document management</code></p>
+    </td>
+  </tr>
+</table>
+
+**[Explore my work on divyarajsinh.com →](https://divyarajsinh.com/)**
+
+## Toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Ruby · JavaScript · TypeScript · Python · Bash · HTML · CSS |
+| **Frontend** | React · Vite · Tailwind CSS · Bootstrap |
+| **Backend** | Ruby on Rails · Node.js · Express · REST APIs · Sidekiq |
+| **Data** | PostgreSQL · MySQL · Redis |
+| **Cloud & delivery** | AWS · S3 · SES · SQS · Elastic Beanstalk · Docker · Linux · CI/CD |
+| **Developer tools** | Git · GitHub · VS Code · Postman |
+
+## Experience
+
+**Full Stack Developer · Atharva System Pvt Ltd**
+
+Building enterprise applications across the stack: Rails services and REST APIs, React interfaces with Vite, and PostgreSQL/MySQL databases. My work also includes background jobs, AWS integrations and CI/CD.
+
+## GitHub activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Divyarajsinhsolanki&theme=tokyonight"/>
+  <a href="https://github.com/Divyarajsinhsolanki?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyarajsinhsolanki&amp;show_icons=true&amp;theme=tokyonight" width="467" alt="GitHub statistics for Divyarajsinh Solanki. Follow this link to browse my repositories." loading="lazy" />
+  </a>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Divyarajsinhsolanki&theme=tokyonight&margin-w=15&margin-h=15"/>
+  <a href="https://github.com/Divyarajsinhsolanki?tab=overview">Contribution calendar &amp; recent activity ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Divyarajsinhsolanki?tab=repositories">Explore repositories ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Divyarajsinhsolanki?tab=stars">What I'm exploring ↗</a>
 </p>
 
----
+<!-- The contribution calendar is available natively on the GitHub profile.
+     Unavailable streak, trophy and activity-graph services were removed.
+     The banner is stored in this repository; core profile content is plain HTML/Markdown. -->
 
-# 📈 Contribution Graph
+---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyarajsinhsolanki&theme=tokyo-night"/>
+  <strong>Let's build something useful.</strong><br /><br />
+  <a href="https://divyarajsinh.com/">divyarajsinh.com</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:solanki.divyarajsinhp@gmail.com">solanki.divyarajsinhp@gmail.com</a>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 📄 MyForms
-Enterprise healthcare platform built with Ruby on Rails.
-
-**Tech Used**
-- Ruby on Rails
-- React
-- PostgreSQL
-- Redis
-- AWS
-- Sidekiq
-- SQS
-- SES
-- S3
-
----
-
-### 🤖 NexusHub
-
-AI-powered workspace built using React and JavaScript.
-
----
-
-### 💬 Chat Application
-
-Real-time chat application built with Ruby on Rails.
-
----
-
-### 📄 PDF Master
-
-PDF generation and management application.
-
----
-
-# 💼 Experience
-
-### Full Stack Developer
-**Atharva System Pvt Ltd**
-
-- Ruby on Rails
-- React
-- Vite
-- AWS
-- PostgreSQL
-- MySQL
-- REST APIs
-- Background Jobs
-- S3
-- SES
-- SQS
-- Elastic Beanstalk
-- CI/CD
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Divyarajsinhsolanki">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/divyarajsinh-solanki-353538206">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:solanki.divyarajsinhp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy solving complex backend problems, optimizing Rails applications, and building scalable web applications.
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center"><sub>I enjoy solving complex backend problems, optimizing Rails applications, and building scalable web applications.</sub></p>
