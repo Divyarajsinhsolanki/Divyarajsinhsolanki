@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+ <title id="title">MyForms</title><desc id="desc">Enterprise healthcare, built with Ruby on Rails. Built with RAILS · REACT · POSTGRESQL.</desc>
+ <defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141d26"/><stop offset="1" stop-color="#0b1016"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#354653"/><stop offset="1" stop-color="#18242e"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#b6f36e"/><stop offset="1" stop-color="#b6f36e" stop-opacity=".50"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b6f36e" stop-opacity=".11"/><stop offset="1" stop-color="#b6f36e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge"><stop stop-color="#b6f36e" stop-opacity=".7"/><stop offset="1" stop-color="#b6f36e" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-60%" y="-60%" width="220%" height="240%"><feDropShadow dx="0" dy="15" stdDeviation="12" flood-color="#000" flood-opacity=".38"/></filter>
+ </defs>
+ <rect x="1" y="1" width="718" height="358" rx="25" fill="url(#bg)" stroke="#2b3741"/>
+ <ellipse cx="580" cy="170" rx="205" ry="173" fill="url(#halo)"/>
+ <path d="M445 300 655 182M478 324 688 206M432 228 592 321M478 202 685 321" fill="none" stroke="#40535f" stroke-opacity=".18"/>
+ <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+ <text x="40" y="53" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#b6f36e">01 / HEALTHCARE</text>
+ <g transform="translate(661 36)" fill="none" stroke="#8f9eaa" stroke-width="1.6" stroke-linecap="round"><path d="M0 15 15 0M2 0h13v13"/></g>
+ <text x="40" y="123" font-size="40" font-weight="650" letter-spacing="-1.2" fill="#f3f5ee">MyForms</text>
+ <text x="40" y="171" font-size="23" fill="#aebbc7">Enterprise healthcare,</text><text x="40" y="200" font-size="23" fill="#aebbc7">built with Ruby on Rails.</text>
+ <path d="M40 266h360" stroke="#2b3741"/>
+ <circle cx="46" cy="305" r="4" fill="#b6f36e"/>
+ <text x="62" y="311" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#cfdae2">RAILS · REACT · POSTGRESQL</text>
+ </g>
+ <g filter="url(#shadow)">
+ <path d="M457 237 548 184 666 252 575 305Z" fill="#102116" stroke="#49643a" stroke-opacity=".5"/>
+ <path d="m457 237 118 68v10l-118-68Z" fill="#17251e"/><path d="m575 305 91-53v10l-91 53Z" fill="#23392a"/>
+ <g transform="translate(476 122) skewY(30)">
+  <rect x="15" y="-17" width="134" height="132" rx="11" fill="#12241c" stroke="#48704a"/>
+  <rect x="6" y="-8" width="134" height="132" rx="11" fill="#243a30" stroke="#648051"/>
+  <rect width="134" height="132" rx="11" fill="url(#glass)" stroke="#739268"/>
+  <path d="M0 35h134" stroke="#789780" stroke-opacity=".5"/>
+  <circle cx="13" cy="17" r="3" fill="#b6f36e"/><circle cx="24" cy="17" r="3" fill="#728e66"/>
+  <rect x="17" y="54" width="28" height="29" rx="6" fill="#b6f36e"/>
+  <path d="M31 61v15M24 68.5h14" stroke="#18321a" stroke-width="3"/>
+  <path d="M58 57h55M58 69h41M58 81h48" stroke="#9cadb5" stroke-width="4" stroke-linecap="round"/>
+  <path d="m16 108 18-1 8-13 11 26 13-21 11 10h38" fill="none" stroke="#b6f36e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+ <g transform="translate(626 108)">
+  <path d="m0 0 28 16v32L0 32Z" fill="#d8ffa5"/><path d="m0 0 12-7 28 16-12 7Z" fill="#b6f36e"/><path d="m28 16 12-7v32l-12 7Z" fill="#6f9d40"/>
+  <path d="M14 16v18M7 18l14 8" fill="none" stroke="#3b5924" stroke-width="4"/>
+ </g>
+ </g>
+ </svg>

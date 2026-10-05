@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+ <title id="title">Chat Application</title><desc id="desc">Conversations, connected in real time. Built with RUBY ON RAILS.</desc>
+ <defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141d26"/><stop offset="1" stop-color="#0b1016"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#354653"/><stop offset="1" stop-color="#18242e"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#c6b2ed"/><stop offset="1" stop-color="#c6b2ed" stop-opacity=".50"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#c6b2ed" stop-opacity=".11"/><stop offset="1" stop-color="#c6b2ed" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge"><stop stop-color="#c6b2ed" stop-opacity=".7"/><stop offset="1" stop-color="#c6b2ed" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-60%" y="-60%" width="220%" height="240%"><feDropShadow dx="0" dy="15" stdDeviation="12" flood-color="#000" flood-opacity=".38"/></filter>
+ </defs>
+ <rect x="1" y="1" width="718" height="358" rx="25" fill="url(#bg)" stroke="#2b3741"/>
+ <ellipse cx="580" cy="170" rx="205" ry="173" fill="url(#halo)"/>
+ <path d="M445 300 655 182M478 324 688 206M432 228 592 321M478 202 685 321" fill="none" stroke="#40535f" stroke-opacity=".18"/>
+ <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+ <text x="40" y="53" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#c6b2ed">03 / REAL-TIME</text>
+ <g transform="translate(661 36)" fill="none" stroke="#8f9eaa" stroke-width="1.6" stroke-linecap="round"><path d="M0 15 15 0M2 0h13v13"/></g>
+ <text x="40" y="123" font-size="40" font-weight="650" letter-spacing="-1.2" fill="#f3f5ee">Chat Application</text>
+ <text x="40" y="171" font-size="23" fill="#aebbc7">Conversations, connected</text><text x="40" y="200" font-size="23" fill="#aebbc7">in real time.</text>
+ <path d="M40 266h360" stroke="#2b3741"/>
+ <circle cx="46" cy="305" r="4" fill="#c6b2ed"/>
+ <text x="62" y="311" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#cfdae2">RUBY ON RAILS</text>
+ </g>
+ <g filter="url(#shadow)">
+ <path d="m462 260 99-58 114 66-99 58Z" fill="#242133" stroke="#504369"/>
+ <path d="m462 260 114 66v8l-114-66Z" fill="#201d2b"/><path d="m576 326 99-58v8l-99 58Z" fill="#362c48"/>
+ <g transform="translate(540 121) skewY(-30)">
+  <path d="M0 15Q0 0 15 0h99q15 0 15 15v68q0 15-15 15H44l-21 25V98h-8Q0 98 0 83Z" fill="#756390" stroke="#ad9eca" stroke-width="1.5"/>
+  <path d="M24 27h80M24 43h65M24 59h44" fill="none" stroke="#d5c9e9" stroke-width="5" stroke-linecap="round"/>
+ </g>
+ <g transform="translate(469 157) skewY(30)">
+  <path d="M0 14Q0 0 14 0h113q14 0 14 14v70q0 14-14 14h-21v22L81 98H14Q0 98 0 84Z" fill="url(#glass)" stroke="#a696bd" stroke-width="1.5"/>
+  <circle cx="40" cy="46" r="7" fill="#c6b2ed"/><circle cx="70" cy="46" r="7" fill="#c6b2ed"/><circle cx="100" cy="46" r="7" fill="#c6b2ed"/>
+  <path d="M35 73h68" stroke="#64727c" stroke-width="3" stroke-linecap="round"/>
+ </g>
+ <circle cx="632" cy="244" r="16" fill="#b6f36e" stroke="#172018" stroke-width="4"/>
+ <path d="m625 244 5 5 9-10" fill="none" stroke="#304520" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+ </svg>

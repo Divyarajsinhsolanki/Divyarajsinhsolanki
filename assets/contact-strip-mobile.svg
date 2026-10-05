@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc"><title id="title">Have an idea? Let’s build it.</title><desc id="desc">Visit divyarajsinh.com to explore my work and start a conversation.</desc><defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141d26"/><stop offset="1" stop-color="#0b1016"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#354653"/><stop offset="1" stop-color="#18242e"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#b6f36e"/><stop offset="1" stop-color="#b6f36e" stop-opacity=".50"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b6f36e" stop-opacity=".11"/><stop offset="1" stop-color="#b6f36e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge"><stop stop-color="#b6f36e" stop-opacity=".7"/><stop offset="1" stop-color="#b6f36e" stop-opacity="0"/></linearGradient>
+ <filter id="shadow" x="-60%" y="-60%" width="220%" height="240%"><feDropShadow dx="0" dy="15" stdDeviation="12" flood-color="#000" flood-opacity=".38"/></filter>
+ </defs>
+<rect x="1" y="1" width="598" height="308" rx="25" fill="url(#bg)" stroke="#2b3741"/>
+<ellipse cx="548" cy="153" rx="280" ry="260" fill="url(#halo)"/>
+<g fill="none" stroke="#b6f36e" stroke-opacity=".1"><path d="m439 0 160 93-160 92 160 92M516 0v310M439 0v310M593 0v310M439 93l160 92-160 92"/></g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="32" y="42" fill="#b6f36e" font-family="Consolas,monospace" font-size="14" letter-spacing="2">LET’S BUILD SOMETHING.</text>
+<text x="30" y="103" fill="#f3f5ee" font-size="49" font-weight="600" letter-spacing="-1.2">Have an idea?</text>
+<text x="30" y="158" fill="#f3f5ee" font-size="49" font-weight="600" letter-spacing="-1.2">Let’s build it.</text>
+<text x="32" y="197" fill="#9ba8b6" font-size="20">Explore my work. Start a conversation.</text>
+<g transform="translate(30 225)"><rect width="287" height="55" rx="27.5" fill="#b6f36e"/><text x="23" y="37" fill="#172214" font-size="25" font-weight="600">divyarajsinh.com</text><path d="m248 34 13-13m-12 0h12v12" fill="none" stroke="#172214" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g></svg>
